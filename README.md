@@ -1,5 +1,4 @@
 # local-MBTI
-# MBTI Personality Test 🧠
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -15,7 +14,7 @@
 - **编程语言**：Python 3.8+
 
 ## 快速开始
-  python 1.py
+```python 1.py
 ### 1. 克隆仓库
 ```bash
 git clone https://github.com/yourname/mbti-test.git
