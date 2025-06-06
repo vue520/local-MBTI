@@ -12,10 +12,3 @@
 
 ## 技术栈
 - **编程语言**：Python 3.8+
-
-## 快速开始
-```python 1.py
-### 1. 克隆仓库
-```bash
-git clone https://github.com/yourname/mbti-test.git
-cd mbti-test
